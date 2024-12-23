@@ -1,5 +1,5 @@
 <p align="center" ><img  src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Navindu Sachintha</h1>
+<h1 align="center">Hi 👋, I'm Vihanga Nilusha</h1>
 <h3 align="center">Computer Science Student | Go beyond the Boundries</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=navindu-sachintha&label=Profile%20views&color=0e75b6&style=flat" alt="navindu" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Plymouth**
 
-- 📫 How to reach me **navindu.social@gmail.com**
+- 📫 How to reach me **vihaax23@gmail.com**
 
 </td>
 <td width="50%" align="center">
